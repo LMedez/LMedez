@@ -1,5 +1,5 @@
 # Hi there, I'm Luciano 👋 
-## I'm a Software Developemtn Technician
+## I'm a Software Development Technician
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
