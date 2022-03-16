@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)]()
+[![website](./img/globe-dark.svg)](https://lmedez.github.io/Portfolio/)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/Luchojuniors)
 &nbsp;&nbsp;
