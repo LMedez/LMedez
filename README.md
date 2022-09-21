@@ -1,10 +1,4 @@
 # Hi there, I'm Luciano 👋 
-## I'm a Software Development Technician
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Android and Backend in general
-- ⚡ Fun fact: I love to learn and support the community
 
 ### Connect with me:
 
